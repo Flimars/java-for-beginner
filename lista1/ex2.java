@@ -5,7 +5,7 @@ atualizado com os 20%.
 */
 import java.util.Scanner;
 
-public class list1Ex2 {
+public class ex2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double numEntrada = 0.0, numSaida = 0.0;
