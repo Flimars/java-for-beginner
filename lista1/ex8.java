@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class list1Ex8 {
+public class ex8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         float numTotEleitores = 0, numVotVal = 0, numvotBranco = 0, numVotNulos = 0;
