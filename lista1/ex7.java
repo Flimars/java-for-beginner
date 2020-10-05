@@ -7,7 +7,7 @@
  */
 import java.util.Scanner;
 
-public class list1Ex7 {
+public class ex7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         float distancia = 0, tempoViagem = 0, velocMedia = 80;
