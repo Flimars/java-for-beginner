@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-public class list1Ex6 {
+public class ex6 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         float media = 0, nota1 = 0, nota2 = 0;
