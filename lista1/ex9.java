@@ -16,7 +16,7 @@
 import java.util.Scanner;
 //import java.lang.inint;
 
-public class list1Ex9 {
+public class ex9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int crianca = 200, homem = 400, mulher = 320;
