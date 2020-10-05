@@ -12,7 +12,7 @@
 import java.util.Scanner;
 import java.lang.*;
 
-public class list1Ex11 {
+public class ex11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a = 0, b = 0, c = 0;
