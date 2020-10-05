@@ -6,7 +6,7 @@ usuário.
 */
 import java.util.Scanner;
 
-public class list1Ex3 {
+public class ex3 {
 
     public static void main(String[] aStrings) {
         Scanner in = new Scanner(System.in);
