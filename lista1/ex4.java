@@ -6,7 +6,7 @@ triângulo.
 */
 import java.util.Scanner;
 
-public class list1Ex4 {
+public class ex4 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
