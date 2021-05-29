@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public Class Matematica{
+public class Matematica{
     public static void main(String []args){
         Scanner in = new Scanner(System.in);
         //int cont = 0;
@@ -25,10 +25,10 @@ public Class Matematica{
         int resultado = 1;
 
             while(cont <= expoente && cont >= 0){
-                resultado *= base;
-                cont ++;
-                return resultado;
+                resultado *= base;               
             }//fim do while
+            cont++;
+            return resultado;
     }//fim do metodo potencia
    
 
