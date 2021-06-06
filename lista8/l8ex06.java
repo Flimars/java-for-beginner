@@ -1,3 +1,4 @@
+package lista8;
 
 import java.util.Scanner;
 /* 6. Escreva uma palavra, letra por letra, colocando cada letra em um vetor. Ao final,
